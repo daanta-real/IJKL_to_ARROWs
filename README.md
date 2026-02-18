@@ -1,6 +1,8 @@
 # IJKL_to_ARROWs
 
-![IJKL_2_ARROWs.ico](IJKL_2_ARROWs.ico)
+<p align="center">
+  <img width="300" alt="image" align="center" src="https://github.com/user-attachments/assets/9720beb8-62b9-4a7e-b2a5-ae492ae42fda" />
+</p>
 
 윈도에서 노트북의 작은 화살표 키 때문에 고통받는 게이머들을 위한 리매핑 프로그램이다.
 IJKL 키 입력을 로우레벨에서 상하좌우 화살표 키 입력으로 바꿔준다.
