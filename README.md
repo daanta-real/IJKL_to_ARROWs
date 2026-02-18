@@ -8,7 +8,10 @@ IJKL 키를 로우레벨에서 상하좌우 화살표 키로 바꿔준다.
 This is a low-level remapping program for those struggling with small arrow keys on laptops.
 It remaps IJKL keys to the arrow keys.
 
+---
+
 ### Features (주요 기능)
+
 - **Low-Level Control**
 
   Windows API(SetWindowsHookEx)를 사용하여 게임 내에서도 입력이 잘 작동함
@@ -27,6 +30,8 @@ It remaps IJKL keys to the arrow keys.
 
   Runs in the background with a tray icon for easy exit via right-click.
 
+---
+
 ### Build Instructions (빌드 방법; MSYS2)
 ```Bash
 # 1. 리소스 컴파일 (Compile Resources)
@@ -40,7 +45,7 @@ g++ -O2 IJKL_2_ARROWS.cpp resource.res -o _IJKL_2_ARROWS.exe -mwindows -static -
 
 If you don't want to build it yourself, simply grab it from the Releases section.
 
-
+---
 
 ### Usage & Notes (사용 및 주의사항)
 
@@ -65,9 +70,13 @@ If you don't want to build it yourself, simply grab it from the Releases section
 
   Right-click the tray icon and select 'Exit' to close the program and disable remapping.
 
+---
+
 ### License
 
-WTFPL
+IDK WTFPL
+
+---
 
 ### Author
 
