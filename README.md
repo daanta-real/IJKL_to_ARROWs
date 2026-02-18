@@ -2,10 +2,10 @@
 
 ![IJKL_2_ARROWs.ico](IJKL_2_ARROWs.ico)
 
-노트북의 작은 화살표 키 때문에 고통받는 이들을 위한 리매핑 프로그램이다.
-IJKL 키를 로우레벨에서 상하좌우 화살표 키로 바꿔준다.
+윈도에서 노트북의 작은 화살표 키 때문에 고통받는 게이머들을 위한 리매핑 프로그램이다.
+IJKL 키 입력을 로우레벨에서 상하좌우 화살표 키 입력으로 바꿔준다.
 
-This is a low-level remapping program for those struggling with small arrow keys on laptops.
+This is a low-level remapping program for gamer struggling with small arrow keys on Windows laptops.
 It remaps IJKL keys to the arrow keys.
 
 ---
